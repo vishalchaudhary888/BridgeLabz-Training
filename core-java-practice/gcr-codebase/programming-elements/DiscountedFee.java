@@ -1,9 +1,9 @@
 public class DiscountedFee{
 	public static void main(String[] args){
-		int fee = 125000;
-		int disPerc = 10;
-		float disc = (125000*disPerc)/100;
-		System.out.print("The discount amount is INR "+disc+" and final discount from the fee is INR "+(fee-disc));
+		int Fee = 125000;
+		int DiscountPerc = 10;
+		float Discount = (125000*DiscountPerc)/100;
+		System.out.print("The discount amount is INR "+Discount+" and final discount from the fee is INR "+(Fee-Discount));
 	}
 }
 
