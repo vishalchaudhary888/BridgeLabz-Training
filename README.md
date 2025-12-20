@@ -30,4 +30,7 @@ by week with thematic headings, detailing the work done on each date and day.
     What I Did
     - Refacotr all the codes with proper naming convention
     - Learn about the static keyword, concepts of classes
-    - Solved the problems from control-flow sheet level 1, level 2 and half of level 3 questions 
+    - Solved the problems from control-flow sheet level 1, level 2 and half of level 3 questions
+    20/12/2025
+    What I Did
+    - Solve Scenerio- Based question
