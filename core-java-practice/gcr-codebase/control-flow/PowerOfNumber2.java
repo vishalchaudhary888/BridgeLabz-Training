@@ -5,7 +5,7 @@ public class PowerOfNumber{
         int Base = sc.nextInt();
         int Power = sc.nextInt();
         int Result = 1;
-        int i=1
+        int i=1;
         while(i<=Power){
             Result*=Base;
             i++;

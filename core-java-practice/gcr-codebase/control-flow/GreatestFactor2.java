@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class GreatestFactor{
+public class GreatestFactor2{
     public class void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int Number = sc.nextInt();

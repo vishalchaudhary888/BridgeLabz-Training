@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ArmStrongNumber{
+public class ArmstrongNumber{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int Number = sc.nextInt();
