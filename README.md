@@ -26,11 +26,9 @@ by week with thematic headings, detailing the work done on each date and day.
     - Solved basic Java problems
     - Practiced logic building
     - Strengthened core Java concepts
-    19/12/2025
-    What I Did
-    - Refacotr all the codes with proper naming convention
-    - Learn about the static keyword, concepts of classes
-    - Solved the problems from control-flow sheet level 1, level 2 and half of level 3 questions
-    20/12/2025
-    What I Did
-    - Solve Scenerio- Based question
+    19/12/2025-Refacotr all the codes with proper naming convention and solved problems of control-flow of level 1,2 and 3
+    20/12/2025-Solve Scenerio- Based question
+    21/12/2025-Solve Array questions of level 1 and 2
+
+2 Week 2:
+    23/12/2025-Solve Solve String questions of level 1, 2 and 3 
