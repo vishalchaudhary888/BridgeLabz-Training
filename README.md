@@ -31,4 +31,4 @@ by week with thematic headings, detailing the work done on each date and day.
     21/12/2025-Solve Array questions of level 1 and 2
 
 2 Week 2:
-    23/12/2025-Solve Solve String questions of level 1, 2 and 3 
+    -23/12/2025-Solve Solve String questions of level 1, 2 and 3 
