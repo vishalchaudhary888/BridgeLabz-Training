@@ -11,6 +11,32 @@
 
 ---
 
+BridgeLabz-Training/
+|
++-- core-java-practice/(Branch & Folder Name)
+|   |
+|   +-- gcr-codebase/
+|   |   |
+|   |   +-- programming-elements/
+|   |   |
+|   |   +-- control-flow/
+|   |   |
+|   |   +--arrays/
+|   |   |
+|   |   +--string/
+|   |   |
+|   |   +--method/
+|   |   |
+|   |   +--extras/
+|   |
+|   +-- leet-code-codebase/
+|   |
+|   +-- scenario-based/
+|
++-- README.md
+
+---
+
 ## 🗓 Week 1 — *Getting Started with Java*  
 📆 **16 Dec 2025 – 21 Dec 2025**
 
