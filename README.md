@@ -1,7 +1,13 @@
-# BridgeLabz-Training
-This log documents the daily progress of tasks completed during the BridgeLabz training
-program (ID: 2115001014), as recorded in the repository’s README. Tasks are grouped
-by week with thematic headings, detailing the work done on each date and day.
+# 🚀 BridgeLabz Training Progress Log
+
+> This repository documents my **daily learning progress and task completion** during the  
+> **BridgeLabz Training Program**  
+> 🆔 **Program ID:** 2115001014  
+>  
+> Each task is linked to the **actual implementation/code** available in this repository for easy verification.
+
+🔗 **Repository:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training
 
 ---
 
