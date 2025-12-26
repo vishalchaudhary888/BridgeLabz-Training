@@ -14,72 +14,73 @@
 ## 🗓 Week 1 — *Getting Started with Java*  
 📆 **16 Dec 2025 – 21 Dec 2025**
 
-### 🔹 16 Dec 2025 (Monday)
+### 🔹 16 Dec 2025 (Tuesday)
 ✅ Learned about **Git and GitHub**  
 - Understood version control concepts  
 - Created the project **folder and file structure**  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training
 ---
-### 🔹 17 Dec 2025 (Tuesday)
+### 🔹 17 Dec 2025 (Wednesday)
 ✅ Practiced **Git Commands**  
 - Learned Git workflows (`clone`, `add`, `commit`, `push`)  
 - Solved and uploaded **5 LeetCode problems**  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase
 ---
-### 🔹 18 Dec 2025 (Wednesday)
+### 🔹 18 Dec 2025 (Thursday)
 ✅ Solved **Basic Java Programs**  
 - Implemented foundational Java logic problems  
 - Uploaded solutions to **practice-element** section  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/programming-elements
 ---
-### 🔹 19 Dec 2025 (Thursday)
+### 🔹 19 Dec 2025 (Friday)
 ✅ Refactored existing codebase  
 - Applied proper **naming conventions**  
 - Solved **Control Flow problems (Level 1, 2 & 3)**  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
 ---
-### 🔹 20 Dec 2025 (Friday)
+### 🔹 20 Dec 2025 (Saturday)
 ✅ Solved **Scenario-Based Questions**  
 - Focused on real-world problem-solving  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+
 ---
-### 🔹 21 Dec 2025 (Saturday)
+
+## 🗓 Week 2 — *Core Java Deep Dive*  
+📆 **22 Dec 2025 – 28 Dec 2025**
+
+### 🔹 22 Dec 2025 (Monday)
 ✅ Solved **Array-Based Problems**  
 - Completed **Level 1 & Level 2** array questions  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
 
----
-
-## 🗓 Week 2 — *Core Java Deep Dive*  
-📆 **23 Dec 2025 – 28 Dec 2025**
-
-### 🔹 23 Dec 2025 (Monday)
+### 🔹 23 Dec 2025 (Tuesday)
 ✅ Solved **String Problems (Level 1, 2 & 3)**  
 - Practiced string manipulation and logic building  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string
 ---
-### 🔹 24 Dec 2025 (Tuesday)
+### 🔹 24 Dec 2025 (Wednesday)
 ✅ Solved **Method-Based Problems – Level 1**  
 - Worked with user-defined methods  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/method
 ---
-### 🔹 25 Dec 2025 (Wednesday)
+### 🔹 25 Dec 2025 (Thursday)
 ✅ Solved **Method-Based Problems – Level 2 & Level 3**  
 - Implemented parameterized methods and return values  
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/method
 ---
-### 🔹 26 Dec 2025 (Thursday)
+### 🔹 26 Dec 2025 (Friday)
 ✅ Solved **Additional String Problems**  
-- Practiced advanced string methods  
+- Practiced advanced string methods
+- Solved method questions of level 3
 🔗 **Work Link:**  
-👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/method
 ---
