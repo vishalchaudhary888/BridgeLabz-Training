@@ -107,6 +107,11 @@ BridgeLabz-Training/
 ✅ Solved **Additional String Problems**  
 - Practiced advanced string methods
 - Solved method questions of level 3
+- Solved string questions in extras
+    - Count Vowel
+    - Reverse String
+    - Anagram Strings
+    - Palindrome String and more
 🔗 **Work Link:**  
-👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/method
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 ---
