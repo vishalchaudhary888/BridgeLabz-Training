@@ -13,7 +13,7 @@
 
 BridgeLabz-Training/
 |
-+-- core-java-practice/(Branch & Folder Name)
++-- core-java-practice/
 |   |
 |   +-- gcr-codebase/
 |   |   |
@@ -33,7 +33,18 @@ BridgeLabz-Training/
 |   |
 |   +-- scenario-based/
 |
-+-- README.md
+├── oops-practice/      
+│   │
+│   ├── gcr-codebase/
+│   │   ├── inheritance/
+│   │   ├── encapsulation/
+│   │   └── polymorphism/
+│   │
+│   ├── scenario-based/
+│   │
+│   └── leet-code-codebase/
+│
+├── reviews/
 
 ---
 
@@ -77,7 +88,7 @@ BridgeLabz-Training/
 ---
 
 ## 🗓 Week 2 — *Core Java Deep Dive*  
-📆 **22 Dec 2025 – 28 Dec 2025**
+📆 **22 Dec 2025 – 26 Dec 2025**
 
 ### 🔹 22 Dec 2025 (Monday)
 ✅ Solved **Array-Based Problems**  
@@ -112,6 +123,20 @@ BridgeLabz-Training/
     - Reverse String
     - Anagram Strings
     - Palindrome String and more
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
+
+---
+
+## 🗓 Week 3 — *Getting started with oops concept*  
+📆 **29 Dec 2025 – 03 Dec 2025**
+
+### 🔹 29 Dec 2025 (Monday)
+✅ Solved **Scanerio Based Problems**  
+- Completed **Level 1 & Level 2** extras questions
+- Solved Time and Date Related problems in extras
+    - Time Zone
+    - Date formatting
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 ---
