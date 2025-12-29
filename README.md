@@ -137,6 +137,7 @@ BridgeLabz-Training/
 - Solved Time and Date Related problems in extras
     - Time Zone
     - Date formatting
+- Solved EmployeeWages Computation in scenario based(OOPS)
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 ---
