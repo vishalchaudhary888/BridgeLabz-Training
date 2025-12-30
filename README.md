@@ -141,3 +141,10 @@ BridgeLabz-Training/
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 ---
+### 🔹 30 Dec 2025 (Tuesday)
+✅ Solved **Scanerio Based Problems**  
+- Solve Line comparison problem in scenario-based
+- Solve Snake and ladder in scenario-based
+- Refactor Employee wages computation
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
