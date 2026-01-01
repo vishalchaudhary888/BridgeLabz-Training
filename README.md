@@ -123,6 +123,7 @@ BridgeLabz-Training/
     - Reverse String
     - Anagram Strings
     - Palindrome String and more
+    
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 
@@ -138,6 +139,7 @@ BridgeLabz-Training/
     - Time Zone
     - Date formatting
 - Solved EmployeeWages Computation in scenario based(OOPS)
+
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 ---
@@ -146,5 +148,14 @@ BridgeLabz-Training/
 - Solve Line comparison problem in scenario-based
 - Solve Snake and ladder in scenario-based
 - Refactor Employee wages computation
+
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
+---
+### 🔹 31 Dec 2025 (Wednesday)
+✅ Solved **class and object based**  
+- Solve Line comparison problems of class and object
+- Solve assignment based on class-object and constructor 
+
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase
