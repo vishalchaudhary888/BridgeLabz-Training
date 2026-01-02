@@ -153,9 +153,18 @@ BridgeLabz-Training/
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 ---
 ### 🔹 31 Dec 2025 (Wednesday)
-✅ Solved **class and object based**  
+✅ Solved **oops based**  
 - Solve Line comparison problems of class and object
 - Solve assignment based on class-object and constructor 
+
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase
+---
+### 🔹 31 Dec 2025 (Thursday)
+✅ Solved **oops based**  
+- Solve constructor based problem in oops-practice branch
+- Solve instance, class and methods problem 
+- Solve keyword questions
 
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase
