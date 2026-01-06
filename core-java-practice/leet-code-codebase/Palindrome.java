@@ -1,20 +1,26 @@
-import java.util.Scanner;
-public class Palindrome{
-	public static void main(String[] args){
-		Scanner sc = new Scanner(System.in);
-		String str = sc.next();
-		if(isPalindrome(str)){
-			System.out.print("Palindrome String");
-		}
-		else{
-			System.out.print("Not a Palindrome String");
-		}
-	}
-        public static boolean isPalindrome(String str){
-		for(int i=0;i<str.length()/2;i++){
-			if(str.charAt(i)!=str.charAt(str.length()-1-i)){
-				return false;}
-		}
-		return true;
-		}
+class Solution2 {
+    public boolean isPalindrome(int x) {
+        int x2 = x;
+        int rem =1;
+        String str = "";
+        int reverse = 0;
+        if(x<0){
+            return false;
+        }
+        while(x!=0){
+            rem = x%10;
+            reverse = reverse*10 + rem;
+            x = x/10;
+        }
+        return reverse==x2;
+
+
+    }
+}
+
+public class Palindrome {
+    public static void main(String[] args) {
+        Solution2 s = new Solution2();
+        System.out.println(s.isPalindrome(1412));
+    }
 }
