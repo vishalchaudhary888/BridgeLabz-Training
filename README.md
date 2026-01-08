@@ -122,8 +122,7 @@ BridgeLabz-Training/
     - Count Vowel
     - Reverse String
     - Anagram Strings
-    - Palindrome String and more
-    
+    - Palindrome String and more    
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 
@@ -139,7 +138,6 @@ BridgeLabz-Training/
     - Time Zone
     - Date formatting
 - Solved EmployeeWages Computation in scenario based(OOPS)
-
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/extras
 ---
@@ -148,7 +146,6 @@ BridgeLabz-Training/
 - Solve Line comparison problem in scenario-based
 - Solve Snake and ladder in scenario-based
 - Refactor Employee wages computation
-
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 ---
@@ -156,15 +153,65 @@ BridgeLabz-Training/
 ✅ Solved **oops based**  
 - Solve Line comparison problems of class and object
 - Solve assignment based on class-object and constructor 
-
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase
 ---
-### 🔹 31 Dec 2025 (Thursday)
-✅ Solved **oops based**  
+### 🔹 01 Jan 2026 (Thursday)
+✅ Solved **oops-based problems**  
 - Solve constructor based problem in oops-practice branch
 - Solve instance, class and methods problem 
 - Solve keyword questions
-
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase
+---
+### 🔹 02 Jan 2026 (Friday)
+✅ Solved **access modifiers problems**  
+- Practiced java, this, static, final keyword and instanceof questions of level 1
+- Complete OOPS principles
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/keyword
+---
+### 🔹 03 Jan 2026 (Saturday)
+✅ Solved **oops based problems**  
+- Made class, object and sequence UML structure
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/UML%20structure
+
+---
+
+## 🗓 Week 4 — *Getting started with DSA*  
+📆 **05 Jan 2025 – 09 Jan 2025**
+
+### 🔹 05 Jan 2026 (Monday)
+✅ Solved **oops based problems**  
+- Solve inheritance real life based problems
+    - Animal Hierarchy
+    - Bank Account
+    - Employee Management System
+- Solve scenerio based problems
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
+---
+### 🔹 06 Jan 2026 (Tuesday)
+✅ Solved **oops based problems**  
+- Solve problems of Encapsulation, abstraction and interface problems
+- 2 Basic java based Leetcode problems
+- Solve scenerio based problems
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation
+---
+### 🔹 07 Jan 2026 (Wednesday)
+✅ Solved **oops based problems**  
+- Solve Car booking system scenerio based problem
+- Solve Banking system scenerio based problem
+- Solved scenerio based problems
+- Solve 2 Leetcode questions related to basic java concept
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+---
+### 🔹 08 Jan 2026 (Thursday)
+✅ Solved **DSA problems**  
+- Solve Linkedlist problem in gcr codebase
+- Solve 2 Leetcode questions
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linkedlist
