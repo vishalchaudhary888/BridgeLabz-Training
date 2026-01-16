@@ -10,8 +10,7 @@
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training
 
 ---
-## Project Folder Structure
-
+📁 Project Folder Structure
 BridgeLabz-Training/
 ├── core-java-practice/
 │   ├── gcr-codebase/
