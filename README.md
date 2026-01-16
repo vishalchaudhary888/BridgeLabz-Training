@@ -43,9 +43,7 @@ BridgeLabz-Training/
 │   └── leet-code-codebase/
 │
 └── reviews/
-
-
-
+```
 ---
 
 ## 🗓 Week 1 — *Getting Started with Java*  
