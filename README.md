@@ -10,41 +10,39 @@
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training
 
 ---
+## Project Folder Structure
 
 BridgeLabz-Training/
-|
-+-- core-java-practice/
-|   |
-|   +-- gcr-codebase/
-|   |   |
-|   |   +-- programming-elements/
-|   |   |
-|   |   +-- control-flow/
-|   |   |
-|   |   +--arrays/
-|   |   |
-|   |   +--string/
-|   |   |
-|   |   +--method/
-|   |   |
-|   |   +--extras/
-|   |
-|   +-- leet-code-codebase/
-|   |
-|   +-- scenario-based/
-|
-├── oops-practice/      
-│   │
+├── core-java-practice/
 │   ├── gcr-codebase/
-│   │   ├── inheritance/
-│   │   ├── encapsulation/
-│   │   └── polymorphism/
-│   │
+│   │   ├── programming-elements/
+│   │   ├── control-flow/
+│   │   ├── arrays/
+│   │   ├── string/
+│   │   ├── method/
+│   │   └── extras/
+│   ├── leet-code-codebase/
+│   └── scenario-based/
+│
+├── oops-practice/
+│   ├── gcr-codebase/
+│   ├── inheritance/
+│   ├── encapsulation/
+│   ├── polymorphism/
 │   ├── scenario-based/
-│   │
 │   └── leet-code-codebase/
 │
-├── reviews/
+├── dsa-practice/
+│   ├── gcr-codebase/
+│   │   ├── linked-list/
+│   │   ├── sorting/
+│   │   ├── queues/
+│   │   └── hashmap/
+│   ├── scenario-based/
+│   └── leet-code-codebase/
+│
+└── reviews/
+
 
 ---
 
@@ -179,7 +177,7 @@ BridgeLabz-Training/
 
 ---
 
-## 🗓 Week 4 — *Getting started with DSA*  
+## 🗓 Week 4 — *Getting started with DSA and Advance OOPS*  
 📆 **05 Jan 2025 – 09 Jan 2025**
 
 ### 🔹 05 Jan 2026 (Monday)
@@ -215,3 +213,74 @@ BridgeLabz-Training/
 - Solve 2 Leetcode questions
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Linkedlist
+---
+### 🔹 09 Jan 2026 (Friday)
+✅ Solved **DSA problems** 
+- Solve scenerio-based problems
+    - Hospital Management System
+    - Vehicle Rental System
+    - Flight Booking System
+- Solve Linkedlist problem in gcr codebase
+- Solve 2 Leetcode questions
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+---
+
+## 🗓 Week 5 — *Getting started with DSA and Advance OOPS*  
+📆 **12 Jan 2025 – 17 Jan 2025**
+
+### 🔹 12 Jan 2026 (Monday)
+✅ Solved **DSA and OOPS problems**  
+- Solve OOPS scenerio based-problems
+    - Online Banking System
+    - E-Commerce Order Management System
+- Solve 2 Leetcode questions
+    - Check if it is a straight line
+    - Harshad Number
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+---
+### 🔹 13 Jan 2026 (Tuesday)
+✅ Solved **DSA and OOPS problems**  
+- Practice merge conflicts in git hub
+- Solve Stack questions
+- Solve OOPS scenerio-based questions
+    - Digital Wallet System
+    - Online voting System
+    - Hotel Reservation System
+- Solve 2 Leetcode questions
+    - Reverse Linked-list
+    - Cycle in a Linked-list
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/four-pillers-of-OOPS
+---
+### 🔹 14 Jan 2026 (Wednesday)
+✅ Solved **DSA and Leet-code problems**  
+- Solve HashMap questions
+- Solve Queues questions
+- Solve 2 Leetcode questions
+    - Cycle in a Linked-list 2
+    - Intersection of a Linked-list
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/HashMap
+---
+### 🔹 15 Jan 2026 (Thursday)
+✅ Solved **DSA problems**  
+- Learn concept of String builder, String buffer, BufferedReader, File reader
+- Solve bubble sort, insertion and merge sort questions
+- Learn 4-Layers of Architecture in java
+- Solve 2 Leetcode questions
+    - Middle of the Linked-list
+    - Missing Number(core-java-practice) 
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Sorting-Algorithm
+---
+### 🔹 16 Jan 2026 (Friday)
+✅ Solved **DSA problems**  
+- Solve quick, heap, counting sort problems
+- Solve 2 Leetcode questions
+    - Binary search
+    - Roman to Integer
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Sorting-Algorithm
