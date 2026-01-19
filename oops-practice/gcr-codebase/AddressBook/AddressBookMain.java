@@ -1,42 +1,52 @@
-import java.util.*;
-
-//UC 1 Create contacts in address book
-class Contact{
-    String name;
-    String lastName;
-    String address;
-    String city;
-    String state;
-    int zip;
-    long phoneNumber;
-    String email;
-
-    Contact(String name,String lastName, String address,String city,String state,int zip,long phoneNumber,String email){
-        this.name = name;
-        this.lastName = lastName;
-        this.address = address;
-        this.city = city;
-        this.state = state;
-        this.zip = zip;
-        this.phoneNumber = phoneNumber;
-        this.email = email;
-    }
-}
-
-class AddressBook{
-    ArrayList<Contact> contactList = new ArrayList<>();
-    public void addContact(Contact contact){
-        contactList.add(contact);
-        System.out.println("Contact added successfully");
-    }
-}
-//UC 2 Ability to add a new Contact to Address Book from AddressBookMain class
+/*
+ * UC 1 to UC 10: Main Driver Class
+ */
 public class AddressBookMain {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        AddressBook addressBook = new AddressBook();
-        Contact contact = new Contact("Vishal","Chaudhary","Kosi","Mathura","UP",281403,250005422,"vishalchaudhary5803@gmail.com");
-        addressBook.addContact(contact);
 
+    public static void main(String[] args) {
+
+        // UC 6: Create Address Book System
+        AddressBookSystem system = new AddressBookSystem();
+
+        // UC 6: Add Address Book
+        system.addAddressBook("Personal");
+
+        // UC 2: Get Address Book
+        AddressBook book = system.getAddressBook("Personal");
+
+        // UC 1: Create Contact Persons
+        ContactPerson p1 = new ContactPerson(
+                "Vishal", "Chaudhary", "Delhi",
+                "Delhi", "Delhi", "110001",
+                "9999999999", "v@email.com"
+        );
+
+        ContactPerson p2 = new ContactPerson(
+                "Karan", "Sharma", "Mumbai",
+                "Mumbai", "Maharashtra", "400001",
+                "8888888888", "k@email.com"
+        );
+
+        // UC 5 + UC 7: Add contacts and prevent duplicate
+        book.addContact(p1);
+        book.addContact(p2);
+        book.addContact(p1); // duplicate check
+
+        // UC 9: Add contacts to City & State dictionary
+        system.addToCityStateMap(p1);
+        system.addToCityStateMap(p2);
+
+        // UC 5: Display all contacts
+        System.out.println("\nAll Contacts:");
+        book.displayContacts();
+
+        // UC 8: Search by City
+        System.out.println("\nSearch by City:");
+        system.searchByCity("Delhi");
+
+        // UC 10: Count by City and State
+        System.out.println("\nStatistics:");
+        system.countByCity();
+        system.countByState();
     }
 }
