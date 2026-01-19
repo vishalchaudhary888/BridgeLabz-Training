@@ -284,3 +284,11 @@ BridgeLabz-Training/
     - Roman to Integer
 🔗 **Work Link:**  
 👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/Sorting-Algorithm
+---
+### 🔹 17 Jan 2026 (Saturday)
+✅ Solved **DSA problems**  
+- Solve 2 Leetcode questions
+    - Plus One
+    - Power of two
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-practice
