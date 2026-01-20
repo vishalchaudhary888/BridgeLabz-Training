@@ -287,6 +287,21 @@ BridgeLabz-Training/
 ---
 ### 🔹 17 Jan 2026 (Saturday)
 ✅ Solved **DSA problems**  
+- Solve UC-2 and UC-3 in Address Book problem
+- Browser buddy and Round about system in dsa scenerio-based
+- Solve 2 Leetcode questions
+    - Plus One
+    - Power of two
+🔗 **Work Link:**  
+👉 https://github.com/vishalchaudhary888/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-practice
+
+---
+
+## 🗓 Week 6 — *Getting started with Advance DSA*  
+📆 **19 Jan 2025 – 23 Jan 2025**
+
+### 🔹 19 Jan 2026 (Saturday)
+✅ Solved **DSA problems**  
 - Solve 2 Leetcode questions
     - Plus One
     - Power of two
